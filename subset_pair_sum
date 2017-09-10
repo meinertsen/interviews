@@ -3,7 +3,7 @@
 # python solution for unsorted numbers using a list comprehension with if else
 
 a = [1, 2, 3, 9]
-b = [1, 2, 4, 4, 9, 6]
+b = [1, 2, 4, 4, 9, 6] # extended from youtube example to illustrate unsorted sequence
 s = 8
 
 # Are the numbers sorted: no
